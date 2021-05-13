@@ -4,3 +4,5 @@ Note: All repositories labled with "codecademy-" in their names are created usin
 This is the "Excursion" project from the CodeCademy Full-Stack Engineer Skill Path. It contains a simple website made with HTML & CSS.
 ## Who is this for?
 I'm pretty new to HTML & CSS and this repository has mainly been created for me to get better at git. If you are another CodeCademy learner feel free to look at, criticize and review the website.
+## Images
+Some images have been removed for copyright reasons. Might be free, just to be safe.
